@@ -1,4 +1,4 @@
-HSE Leitner Pro v8
+HSE Leitner Pro v9
 ==================
 
 A professional multilingual HSE vocabulary trainer for GitHub Pages.
@@ -31,3 +31,6 @@ Then enable GitHub Pages from the main branch and /(root).
 
 
 Version 8 adds concise English and German definitions for all 1,015 core terms. Definitions are shown before practical examples in cards and dictionary details.
+
+
+Version 9 reviews 295 Persian equivalents for clarity and common professional HSE usage. Equipment, materials, roles, hazards and processes are now distinguished more clearly.

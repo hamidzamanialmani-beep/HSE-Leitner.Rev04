@@ -1,4 +1,4 @@
-QUALITY REPORT – HSE Leitner Pro v8
+QUALITY REPORT – HSE Leitner Pro v9
 Rows: 1015
 Unique core terms: 1015
 Phrase cards: 0
@@ -17,3 +17,8 @@ Expandable term details: enabled
 Installation banner: removed
 
 Definitions: 1,015/1,015 cards include definition_en and definition_de.
+
+Persian terminology review: 295 equivalents revised for clarity and professional usage.
+Example distinction: Feuerlöscher = fire extinguisher / کپسول آتش‌نشانی; Löschmittel = extinguishing agent / ماده اطفای حریق.
+Content refinement: 50 high-impact fire protection, first aid, rescue and emergency terms received term-specific English/German definitions and realistic German/Persian examples.
+Validation completed: JSON and CSV contain 1,015 records; IDs are unique; required Persian meanings are present; JavaScript and Worker syntax are valid; GitHub Pages relative paths and required files are present.

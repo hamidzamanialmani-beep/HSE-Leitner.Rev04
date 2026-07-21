@@ -1,5 +1,5 @@
 'use strict';
-const CACHE='hse-leitner-v8-definitions-20260721';
+const CACHE='hse-leitner-v9-persian-review-20260721';
 const CORE=['./','./index.html','./vocabulary.json','./manifest.webmanifest','./icon-192.svg','./icon-512.svg'];
 
 self.addEventListener('install',event=>{
