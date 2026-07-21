@@ -1,0 +1,17 @@
+{
+  "name": "HSE Leitner Pro – Multilingual HSE Vocabulary",
+  "short_name": "HSE Leitner",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#0f766e",
+  "description": "Professional HSE vocabulary trainer with German, English and Persian terms, German and English definitions, practical examples and a Leitner learning system.",
+  "icons": [
+    {"src":"icon-192.svg","sizes":"192x192","type":"image/svg+xml"},
+    {"src":"icon-512.svg","sizes":"512x512","type":"image/svg+xml"}
+  ],
+  "scope": "./",
+  "id": "./"
+}

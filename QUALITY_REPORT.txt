@@ -1,0 +1,19 @@
+QUALITY REPORT – HSE Leitner Pro v8
+Rows: 1015
+Unique core terms: 1015
+Phrase cards: 0
+Categories: 47
+Terms containing generated prefix colon: 0
+Missing German example 1: 0
+Missing Persian example 1: 0
+Missing German example 2: 0
+Missing Persian example 2: 0
+Unique German example 1 texts: 980
+Unique German example 2 texts: 1015
+Default interface language: English
+Additional interface languages: German, Persian
+Dictionary category drill-down: enabled
+Expandable term details: enabled
+Installation banner: removed
+
+Definitions: 1,015/1,015 cards include definition_en and definition_de.

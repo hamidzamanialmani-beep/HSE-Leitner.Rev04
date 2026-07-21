@@ -1,0 +1,6 @@
+name = "hse-leitner-ai"
+main = "worker.js"
+compatibility_date = "2026-07-20"
+
+[vars]
+OPENAI_MODEL = "gpt-5-mini"
